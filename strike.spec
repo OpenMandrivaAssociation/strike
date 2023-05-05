@@ -48,6 +48,6 @@ Strike is a simple minimal IDE for the Linux phones. Code, build, and run from t
 
 %files -f strike.lang
 %{_bindir}/strike
-%{datadir}/applications/org.kde.strike.desktop
-%{datadir}/metainfo/org.kde.strike.metainfo.xml
-%{iconsdir}/hicolor/scalable/apps/strike.svg
+%{_datadir}/applications/org.kde.strike.desktop
+%{_datadir}/metainfo/org.kde.strike.metainfo.xml
+%{_iconsdir}/hicolor/scalable/apps/strike.svg
