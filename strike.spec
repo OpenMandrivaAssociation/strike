@@ -44,6 +44,4 @@ Strike is a simple minimal IDE for the Linux phones. Code, build, and run from t
 %install
 %ninja_install -C build
 
-%find_lang bonsai
-
 %files
