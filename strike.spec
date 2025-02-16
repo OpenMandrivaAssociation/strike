@@ -1,7 +1,7 @@
 #define snapshot 20220107
 
 Name:		strike
-Version:	2.0.0
+Version:	2.0.1
 Release:	%{?snapshot:0.%{snapshot}.}1
 Summary:	Strike is a simple minimal IDE for the Linux phones. Code, build, and run from the phone.
 URL:    	https://mauikit.org
